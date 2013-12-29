@@ -1,5 +1,5 @@
 /* Meituan 2014 Campus Hiring
- *  Sep 2013
+ *  Sep 10, 2013
  *
  * Problem Description:
  *  k链表翻转。给出一个链表和一个数k, 比如链表1->2->3->4->5->6, k=2,

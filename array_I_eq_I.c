@@ -1,8 +1,9 @@
-/* MicroStrategy Campas
+/* MicroStrategy 2014 Campus Hiring
  *      Oct 21, 2013
  *
  * Problem Description:
- *   Find the element in the rigorously increasing array A that satisfies A[i] = i.
+ *   Find the element in the rigorously increasing array A (i.e., no dup-
+ *   licates) that satisfies A[i] = i.
  *
  */
 #include <stdio.h>
